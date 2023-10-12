@@ -1,0 +1,15 @@
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\bin\Debug\net6.0\C#Sem.exe
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\bin\Debug\net6.0\C#Sem.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\bin\Debug\net6.0\C#Sem.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\bin\Debug\net6.0\C#Sem.dll
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\bin\Debug\net6.0\C#Sem.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.dll
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\refint\C#Sem.dll
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\C#Sem.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem\obj\Debug\net6.0\ref\C#Sem.dll
