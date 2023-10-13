@@ -1,15 +1,15 @@
-﻿Console.WriteLine("Введите число");
-int num = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите квадрат");
-int num2 = Convert.ToInt32(Console.ReadLine());
-if(num2 == num*num)
-{
- Console.WriteLine("Yes");
-}
-else
-{
-Console.WriteLine("No");
-}
+﻿//Console.WriteLine("Введите число");
+//int num = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введите квадрат");
+//int num2 = Convert.ToInt32(Console.ReadLine());
+//if(num2 == num*num)
+//{
+ //Console.WriteLine("Yes");
+//}
+//else
+//{
+//Console.WriteLine("No");
+//}
 // Напишите программу, которая на вход 
 // принимает число и выдает его квадрат (число умноженное 
 // на само себя).
